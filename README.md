@@ -92,7 +92,7 @@ Test metrics (final model):
 
   '''bash
 
-  python src/train.py
+  python train.py
 
   This will:
 
@@ -105,7 +105,7 @@ Test metrics (final model):
 
   '''bash
 
-  python src/predict.py --input example.json
+  python predict.py --input example.json
 
   Example output: Predicted cnt: 1942.07
 
