@@ -18,6 +18,8 @@ This is a **regression problem** with real-world considerations such as:
 **Data:**
 
   . **source:** UCI Machine Learning Repository - Bike Sharing Dataset
+
+  . **url:** https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
   
   . **file used:** 'day.csv'
   
