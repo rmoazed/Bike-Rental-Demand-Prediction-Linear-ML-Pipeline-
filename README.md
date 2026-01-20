@@ -1,5 +1,5 @@
 # Bike-Rental-Demand-Prediction (Linear-ML-Pipeline)
-This project builds an end-to end machine learning pipeline to predict **daily bike rental demand** based on a variety of features included in the UCI Bike Rental dataset, including weather and calendar features. It focuses on **correct preprocessing, model selection, and reproducability**, with a simple deployment-ready prediction interface.
+This project builds an end-to end machine learning pipeline to predict **daily bike rental demand** based on a variety of features included in the UCI Bike Rental dataset, including weather and calendar features. It focuses on **correct preprocessing, model selection, and reproducibility**, with a simple deployment-ready prediction interface.
 
 Problem: given daily weather and calendar information, predict the total number of bike rentals ('cnt') for that day. 
 
